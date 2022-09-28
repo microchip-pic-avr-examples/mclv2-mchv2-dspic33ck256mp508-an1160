@@ -2,7 +2,6 @@
 
 ## AN1160 Demo Guide on MCLV2
 
-<img src="images/demo.png" height = 50% width = 50%>
 
 ## Summary
 This document describes the setup requirements for running the Sensorless BLDC Motor Control Algorithm, which is referenced in AN1160 “Sensorless BLDC Control with Back-EMF Filtering Using a Majority Function” using a dsPICDEM™ MCLV-2 Development Board in the External Op Amp configuration.
