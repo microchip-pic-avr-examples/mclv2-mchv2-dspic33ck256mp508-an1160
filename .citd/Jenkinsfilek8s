@@ -80,6 +80,7 @@ pipeline {
             steps {
                 script {                   
                     mplabxProjectBuild(
+						sh("npm install -g xml2js")
                         sourceFilePath: "${env.MPLABX_PROJECT_SOURCE}"
                     )
                }
